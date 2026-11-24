@@ -51,14 +51,16 @@ These are **partial-equilibrium upper bounds**, not forecasts (see *Limitations*
 
 ### Figures
 
-| File | Content | Type |
-|---|---|---|
-| `t1_suppliers.png` | Import shares by country, duty-free vs 35% CET | Data |
-| `t2_landed_price.png` | Price per cotton T-shirt: CIF + import duty | Data |
-| `t3_elasticity_ladder.png` | The four elasticities side by side | Model |
-| `t4_scenarios.png` | Bangladesh's export gain under four tariff scenarios | Model |
-| `t5_sensitivity_sigma.png` | Bangladesh-only FTA result for σ from 3 to 10 | Model |
-| `t6_monte_carlo.png` | Gravity estimates on customs value vs buyer spending | Simulation |
+| | |
+|:---:|:---:|
+| <img src="figures/t1_suppliers.png" width="400" alt="Brazil's T-shirt import shares by supplier"> | <img src="figures/t2_landed_price.png" width="400" alt="Landed price per cotton T-shirt: CIF plus import duty"> |
+| **t1**: Import shares by country, duty-free vs 35% CET (data) | **t2**: Price per cotton T-shirt, CIF + import duty (data) |
+| <img src="figures/t3_elasticity_ladder.png" width="400" alt="The four elasticities side by side"> | <img src="figures/t4_scenarios.png" width="400" alt="Bangladesh's export gain under four tariff scenarios"> |
+| **t3**: The four elasticities side by side (model) | **t4**: Bangladesh's export gain under four scenarios (model) |
+| <img src="figures/t5_sensitivity_sigma.png" width="400" alt="Bangladesh-only FTA result by assumed sigma"> | <img src="figures/t6_monte_carlo.png" width="400" alt="Monte Carlo: gravity estimates on customs value vs buyer spending"> |
+| **t5**: Bangladesh-only FTA result for σ from 3 to 10 (model) | **t6**: Gravity estimates on customs value vs buyer spending (simulation) |
+
+Click any image to open it at full size.
 
 ---
 
